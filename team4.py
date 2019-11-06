@@ -2,7 +2,7 @@
 
 team_name = 'Son' # Only 10 chars displayed.
 strategy_name = 'Innocent Crime'
-strategy_description = 'Scared but wanting to help his friends'
+strategy_description = 'Scared wanting to help his friends'
     
 def move(my_history, their_history, my_score, their_score):
     from random import uniform
